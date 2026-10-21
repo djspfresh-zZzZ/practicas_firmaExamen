@@ -1,2 +1,2 @@
 # practicas_firmaExamen
-este repositorio solo tiene fines educativos
+Este repositorio solo tiene fines educativos.
